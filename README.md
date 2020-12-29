@@ -1,4 +1,4 @@
-# Atividade 1 - CRUD de Alunos (API REST)
+# Exercicio - CRUD de Alunos (API REST)
 
 Atividade desenvolvida no estágio de desenvolvimento em Java com Spring Boot. O objetivo foi criar uma API REST que implemente operacoes de CRUD (cadastro, consulta, alteracao, remocao) de Alunos.
 
